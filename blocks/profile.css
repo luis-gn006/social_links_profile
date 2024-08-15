@@ -43,7 +43,10 @@
   font-weight: 600;
 }
 .profile__button:hover {
+  transition: 500ms;
   background-color: #c4f82a;
   color: #000;
   cursor: pointer;
+  filter: drop-shadow(2px 2px 2px #000);
+  transform: scale(1.05);
 }
