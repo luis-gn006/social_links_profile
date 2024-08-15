@@ -1,0 +1,8 @@
+.overlay {
+  background-color: #141414;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 200px;
+}

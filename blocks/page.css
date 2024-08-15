@@ -1,0 +1,14 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  margin: 0 auto;
+  color: #fff;
+  z-index: 1;
+}
+body {
+  background-color: #141414;
+}
