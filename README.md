@@ -18,6 +18,6 @@ https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub.
 Github pages link to view my page:
 https://luis-gn006.github.io/social_links_profile/index.html
 
-Luis Gonzalez
+Luis González
 
 Greetings!
