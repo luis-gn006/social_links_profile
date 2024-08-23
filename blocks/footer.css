@@ -8,3 +8,6 @@
 .footer__link {
   color: #dafa75;
 }
+.footer__link:hover {
+  opacity: 0.4;
+}
